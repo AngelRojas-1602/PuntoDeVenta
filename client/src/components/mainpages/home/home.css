@@ -1,0 +1,31 @@
+
+.carousel-inner{
+    width: 1080px;
+    height: 566px;
+}
+.carousel{
+    display: flex;
+    justify-content: center;
+}
+.carousel-control-prev-icon{
+    margin-top: 485px;
+    margin-left: 175px;
+}
+.carousel-control-next-icon{
+    margin-top: 500px;
+    margin-right: 175px;
+}
+.historia{
+    padding-top: 20px;
+}
+
+.importancia{
+    padding-top: 20px;
+}
+
+.preparacion{
+    width: 500px;
+    margin-left: 220px;
+    padding-top: 20px;
+}
+
